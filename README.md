@@ -12,6 +12,10 @@ openssl genrsa 1024 > private.pem<BR><BR>
 Generate public key from private<BR><BR>
 openssl rsa -in private.pem -pubout > public.pem<BR><BR><BR><BR>
   
-  <img src="https://iili.io/yTSGSt.png" alt="Dinosaur" />
+<img src="https://iili.io/yTSGSt.png" alt="D" />
+  
+<h2 style="font-size:40px;"><center>don't forget to subscribe in our youtube channel</center></h2><BR><BR>     
+<p><a href="https://youtu.be/fu7zL7QyECE"><img src="https://i.postimg.cc/MTnJc9Vk/b.png" style="width:560px;height:315px;"></a></p>
+
 
 
